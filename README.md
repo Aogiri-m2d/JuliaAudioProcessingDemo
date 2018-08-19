@@ -1,2 +1,2 @@
 # JuliaAudioProcessingDesmo
-Exsamples for audio signal processing in Julia languege ^1.0.0
+Examples for audio signal processing in Julia languege ^1.0.0
